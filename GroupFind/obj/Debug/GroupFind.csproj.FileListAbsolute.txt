@@ -1,0 +1,7 @@
+C:\Users\koteb\source\repos\GroupFind\GroupFind\bin\Debug\GroupFind.exe.config
+C:\Users\koteb\source\repos\GroupFind\GroupFind\bin\Debug\GroupFind.exe
+C:\Users\koteb\source\repos\GroupFind\GroupFind\bin\Debug\GroupFind.pdb
+C:\Users\koteb\source\repos\GroupFind\GroupFind\obj\Debug\GroupFind.csprojAssemblyReference.cache
+C:\Users\koteb\source\repos\GroupFind\GroupFind\obj\Debug\GroupFind.csproj.CoreCompileInputs.cache
+C:\Users\koteb\source\repos\GroupFind\GroupFind\obj\Debug\GroupFind.exe
+C:\Users\koteb\source\repos\GroupFind\GroupFind\obj\Debug\GroupFind.pdb
